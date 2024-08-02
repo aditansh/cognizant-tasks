@@ -1,0 +1,13 @@
+Exercise 5:
+
+git branch new-feature
+
+git checkout new-feature
+
+git commit -m "[commit message]"
+
+git checkout main
+
+git merge new-feature
+
+git commit -m "Merge: [commit message]"

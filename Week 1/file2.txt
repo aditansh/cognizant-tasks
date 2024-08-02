@@ -1,0 +1,17 @@
+Exercise 2:
+
+git clone https://github.com/trinity2040/Digital-Nurture-3.0
+
+cd Digital-Nurture-3.0
+
+git log
+
+git show [commit]
+
+Exercise 3:
+
+git config user.name <name>
+
+git config user.email <email>
+
+git config --list

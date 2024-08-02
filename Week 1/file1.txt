@@ -12,3 +12,15 @@ touch './Week 1/file1.txt'
 git add ./Week\ 1/file1.txt
 
 git commit -m "Update: Exercise 1 commit"
+
+Exercise 4:
+
+git add ./Week\ 1/file1.txt
+
+git commit -m 'Update: Exercise 4(step4-8) Commit'
+
+git status
+
+git diff HEAD
+
+git diff --staged

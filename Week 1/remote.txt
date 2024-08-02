@@ -1,0 +1,5 @@
+Exercise 6:
+
+git remote add [remote name] "[repository link]"
+
+git push [remote name] [branch name]

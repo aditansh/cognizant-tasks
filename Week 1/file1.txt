@@ -1,0 +1,14 @@
+Commands used for exercise 1:
+
+mkdir 'Cognizant'
+
+cd 'Cognizant'
+
+git init
+
+mkdir 'Week 1'
+touch './Week 1/file1.txt'
+
+git add ./Week\ 1/file1.txt
+
+git commit -m "Update: Exercise 1 commit"
